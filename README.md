@@ -1,4 +1,6 @@
-# Object Detection App
+# YOLOv11-WPF-Windows-Application
+
+![image](https://github.com/user-attachments/assets/d42970fa-b1cf-4b97-a5d0-3d89744a2ec8)
 
 這是一個基於WPF開發的物件偵測應用程式，使用YOLOv11模型進行即時物件偵測。應用程式提供了直覺的使用者介面，可以輕鬆地對圖片進行物件偵測並查看結果。
 
@@ -96,7 +98,7 @@ A: 建議使用支援GPU加速的顯示卡。
 
 ## 聯絡方式
 
-如有任何問題或建議，歡迎提出 Issue 或直接聯繫開發團隊。
+如有任何問題或建議，歡迎提出 Issue。
 
 ## 更新日誌
 
