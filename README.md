@@ -21,7 +21,7 @@
 
 ## 安裝步驟
 
-1. 下載最新版本的應用程式
+1. 下載最新版本的[應用程式](https://github.com/e96031413/YOLOv11-WPF-Windows-Application/releases/download/v1.0.0/YOLOv11-WPF-App.zip)
 2. 解壓縮檔案到指定目錄
 3. 執行 `ObjectDetectionApp.exe`
 
